@@ -1,4 +1,3 @@
-
 #!/bin/bash
 git --version
 
@@ -27,6 +26,7 @@ echo "GitHub link is $link."
 git remote add origin $link
 
 git push origin main
+
 
 
 
